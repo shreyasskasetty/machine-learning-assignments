@@ -4,7 +4,7 @@ This repository contains a collection of assignments completed as part of the CS
 
 ## Contents
 
-1. **Linear Regression**
+1. **Regression**
    - **Focus:** Linear regression models and their variations.
    - **Key Concepts:** Regression analysis, logistic regression, model evaluation.
    - **Files:** Jupyter Notebook with implementations, assignment PDF, and datasets related to Linear and Logistic Regression.
